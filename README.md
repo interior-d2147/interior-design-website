@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SS Designs - Interior Design</title>
+    <title>Example Designs - Interior Design</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -118,12 +118,12 @@
     <section id="contact" class="section">
         <h2>Contact Us</h2>
         <p>Ready to transform your space? Get in touch with us today:</p>
-        <p>Email: <a href="mailto:ssdesigns@example.com">ssdesigns@example.com</a></p>
+        <p>Email: <a href="mailto:Exampledesigns@example.com">ssdesigns@example.com</a></p>
         <p>Phone: +123 456 7890</p>
         <p>Address: 123 Design Street, Creativity City</p>
     </section>
     <footer>
-        <p>&copy; 2025 SS Designs. All Rights Reserved.</p>
+        <p>&copy; 2025 Example Designs. All Rights Reserved.</p>
     </footer>
 </body>
 </html>
