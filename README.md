@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
+<!-- saved from url=(0041)file:///C:/Users/USER/Desktop/Design.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Interior Design by [Your Name]</title>
     <style>
@@ -83,9 +83,9 @@
     </header>
 
     <nav>
-        <a href="#services">Services</a>
-        <a href="#portfolio">Portfolio</a>
-        <a href="#contact">Contact</a>
+        <a href="file:///C:/Users/USER/Desktop/Design.html#services">Services</a>
+        <a href="file:///C:/Users/USER/Desktop/Design.html#portfolio">Portfolio</a>
+        <a href="file:///C:/Users/USER/Desktop/Design.html#contact">Contact</a>
     </nav>
 
     <section id="services">
@@ -110,15 +110,15 @@
         <h2>Portfolio</h2>
         <div class="portfolio">
             <div class="portfolio-item">
-                <img src="https://via.placeholder.com/300" alt="Project 1">
+                <img src="./Interior Design by [Your Name]_files/300" alt="Project 1">
                 <h3>Modern Living Room</h3>
             </div>
             <div class="portfolio-item">
-                <img src="https://via.placeholder.com/300" alt="Project 2">
+                <img src="./Interior Design by [Your Name]_files/300" alt="Project 2">
                 <h3>Cozy Bedroom</h3>
             </div>
             <div class="portfolio-item">
-                <img src="https://via.placeholder.com/300" alt="Project 3">
+                <img src="./Interior Design by [Your Name]_files/300" alt="Project 3">
                 <h3>Elegant Office Space</h3>
             </div>
         </div>
@@ -129,17 +129,18 @@
         <div class="contact">
             <p>If you're interested in our services, feel free to reach out!</p>
             <form action="mailto:your-email@example.com" method="post" enctype="text/plain">
-                <input type="text" name="name" placeholder="Your Name" required>
-                <input type="email" name="email" placeholder="Your Email" required>
-                <textarea name="message" placeholder="Your Message" rows="4" required></textarea>
+                <input type="text" name="name" placeholder="Your Name" required="">
+                <input type="email" name="email" placeholder="Your Email" required="">
+                <textarea name="message" placeholder="Your Message" rows="4" required=""></textarea>
                 <button type="submit">Send Message</button>
             </form>
         </div>
     </section>
 
     <footer>
-        <p>&copy; 2025 Interior Design by [Your Name]. All rights reserved.</p>
+        <p>© 2025 Interior Design by [Your Name]. All rights reserved.</p>
     </footer>
 
-</body>
-</html>
+
+
+</body></html>
