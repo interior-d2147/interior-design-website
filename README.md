@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Illuminated Designs</title>
-    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
@@ -41,17 +40,14 @@
             <h2>Our Services</h2>
             <div class="services-list">
                 <div class="service-item">
-                    <img src="images/service1.jpg" alt="Lighting Design">
                     <h3>Lighting Design</h3>
                     <p>We design lighting solutions that enhance the atmosphere and functionality of your space.</p>
                 </div>
                 <div class="service-item">
-                    <img src="images/service2.jpg" alt="Interior Styling">
                     <h3>Interior Styling</h3>
                     <p>Transform your interiors with our expert styling services, combining colors, textures, and furnishings.</p>
                 </div>
                 <div class="service-item">
-                    <img src="images/service3.jpg" alt="Renovation">
                     <h3>Renovation</h3>
                     <p>We offer complete renovation services, from planning to execution, to create your dream interior.</p>
                 </div>
