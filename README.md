@@ -60,10 +60,10 @@
         <a href="#contact">Contact</a>
     </nav>
     <div class="container">
-        <h2>Welcome to Designs</h2>
+        <h2>Welcome to SS Designs</h2>
         <p>Your one-stop solution for all your interior design needs. We create beautiful and functional spaces that reflect your style and personality.</p>
-        <h3>Our Services</h3>
-        <p>We offer a wide range of services including residential design, commercial design, space planning, and more.</p>
+        <h3>Our Services available:</h3>
+        <p>We offer a wide range of services including residential design, commercial design, space planning, and much more.</p>
         <h3>Portfolio</h3>
         <p>Check out our portfolio to see some of our recent projects and get inspired for your own space.</p>
     </div>
